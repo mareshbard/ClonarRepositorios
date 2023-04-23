@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/125154278/233845561-009ed2c9-1025-418d-9b91-9f0bf0819efd.png)
+
 # COMO "CLONAR" REPOSITÓRIOS:
 Tutorial de como clonar arquivos de um repositório para outro, sem precisar usar comandos fora do Github.
 
@@ -35,3 +37,5 @@ PASTAS e do README do seu repositório
 Arraste todos os arquivos ou copie e cole na área de transferência e 
 não esqueça de dar o commit!!!
 ~~~
+
+![image](https://user-images.githubusercontent.com/125154278/233845606-1a70cabc-9ea5-4ae6-87ad-f0e433516cab.png)
